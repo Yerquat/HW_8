@@ -1,0 +1,15 @@
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.csproj.AssemblyReference.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.AssemblyInfoInputs.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.AssemblyInfo.cs
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\bin\Debug\net6.0\ex_8.4.exe
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\bin\Debug\net6.0\ex_8.4.deps.json
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\bin\Debug\net6.0\ex_8.4.runtimeconfig.json
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\bin\Debug\net6.0\ex_8.4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\bin\Debug\net6.0\ex_8.4.pdb
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\refint\ex_8.4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.pdb
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ex_8.4.genruntimeconfig.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_8\ex_8.4\obj\Debug\net6.0\ref\ex_8.4.dll
